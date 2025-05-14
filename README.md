@@ -5,18 +5,37 @@
 📊 Passionate about data-driven storytelling, business insight, and machine learning  
 📍 Based in the U.S. | EAD Holder | Open to Relocation  
 
-## 💼 Projects
+Here’s a professional and impactful **Projects** section you can add to your GitHub README or LinkedIn:
 
-🔸 [Airbnb NYC Data Analysis](https://github.com/yourusername/airbnb-nyc-analysis)  
-Cleaned and analyzed 48,000+ Airbnb listings in NYC using Python and SQL.  
-Used Seaborn for visuals and Tableau to present price vs. location trends.
+---
 
-🔸 [Sales Dashboard in Tableau](https://public.tableau.com/app/profile/yourname)  
-Built interactive sales dashboard using Tableau and Superstore dataset.  
-Included filters, region breakdowns, and KPIs.
+## 📂 Projects
 
-🔸 [ML for Employee Attrition](https://github.com/yourusername/employee-attrition-ml)  
-Built classification model to predict employee attrition using Logistic Regression and Random Forest.
+* **Genome Dataset Analysis**
+  Applied advanced statistical methods and visualization to analyze genome datasets using Jupyter Notebooks. Extracted meaningful patterns relevant to bioinformatics.
+
+* **Chronic Disease Prediction**
+  Developed predictive models using machine learning algorithms to assess chronic disease risks. Implemented data preprocessing, feature engineering, and evaluation metrics.
+
+* **Weather Data Challenge**
+  Analyzed weather datasets to build models predicting temperature variations and rainfall patterns. Applied regression and time series forecasting techniques.
+
+* **Diabetic Retinopathy Detection**
+  Implemented a deep learning pipeline for early detection of diabetic retinopathy using image datasets. Focused on improving model accuracy and reducing false positives.
+
+* **HTR (Handwritten Text Recognition)**
+  Designed a deep learning model for handwritten text recognition using convolutional neural networks (CNNs). Enhanced character recognition accuracy through data augmentation.
+
+* **Comprehensive Analysis of Modern Computer Forensics**
+  Explored modern techniques in digital forensics. Analyzed forensic methodologies for cybercrime investigation and evidence handling.
+
+* **Grocery Optimization for Budget Shoppers**
+  Developed a cost-optimization tool for budget-conscious grocery shoppers. Used linear programming to suggest optimal shopping lists based on budget constraints and nutritional value.
+
+---
+
+Would you like me to generate this directly in Markdown format for GitHub?
+
 
 ## 🧰 Skills
 
