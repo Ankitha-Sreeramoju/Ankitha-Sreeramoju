@@ -5,15 +5,8 @@
 📊 Passionate about data-driven storytelling, business insight, and machine learning  
 📍 Based in the U.S. | EAD Holder | Open to Relocation  
 
-Here’s a professional and impactful **Projects** section you can add to your GitHub README or LinkedIn:
 
----
-
-Here’s a more visually appealing **Markdown version** with emojis, bold highlights, and better sectioning. This will look cleaner and more engaging on GitHub:
-
----
-
-# 🚀 **Highlighted Projects**
+# 🚀 **Projects**
 
 ### 🧬 **Genome Dataset Analysis**
 
